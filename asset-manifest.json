@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "./static/css/main.a0cec583.chunk.css",
-    "main.js": "./static/js/main.09991202.chunk.js",
-    "main.js.map": "./static/js/main.09991202.chunk.js.map",
+    "main.css": "./static/css/main.0017109f.chunk.css",
+    "main.js": "./static/js/main.ce142655.chunk.js",
+    "main.js.map": "./static/js/main.ce142655.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.ce955115.js",
     "runtime-main.js.map": "./static/js/runtime-main.ce955115.js.map",
     "static/css/2.3b75b243.chunk.css": "./static/css/2.3b75b243.chunk.css",
@@ -10,24 +10,24 @@
     "static/js/2.9c1e79b4.chunk.js.map": "./static/js/2.9c1e79b4.chunk.js.map",
     "index.html": "./index.html",
     "static/css/2.3b75b243.chunk.css.map": "./static/css/2.3b75b243.chunk.css.map",
-    "static/css/main.a0cec583.chunk.css.map": "./static/css/main.a0cec583.chunk.css.map",
+    "static/css/main.0017109f.chunk.css.map": "./static/css/main.0017109f.chunk.css.map",
     "static/js/2.9c1e79b4.chunk.js.LICENSE.txt": "./static/js/2.9c1e79b4.chunk.js.LICENSE.txt",
     "static/media/App.css": "./static/media/header.95a2b93a.png",
-    "static/media/facebook.c5522b63.svg": "./static/media/facebook.c5522b63.svg",
+    "static/media/response.css": "./static/media/hekaya.6df985f2.ttf",
     "static/media/insta.aa42e6e9.svg": "./static/media/insta.aa42e6e9.svg",
     "static/media/mask.99a9b4f7.png": "./static/media/mask.99a9b4f7.png",
     "static/media/messanger.faa593d0.svg": "./static/media/messanger.faa593d0.svg",
-    "static/media/right1.260ccc85.jpg": "./static/media/right1.260ccc85.jpg",
-    "static/media/right2.b9c5c5bd.jpg": "./static/media/right2.b9c5c5bd.jpg",
+    "static/media/right1.428cdebf.png": "./static/media/right1.428cdebf.png",
+    "static/media/right2.23755dae.png": "./static/media/right2.23755dae.png",
     "static/media/index.css": "./static/media/tajawal-latin-400-normal.50180f9d.woff2",
     "static/media/twitter.7659590e.svg": "./static/media/twitter.7659590e.svg",
-    "static/media/wrong.1fbe250c.png": "./static/media/wrong.1fbe250c.png"
+    "static/media/wrong.ffe34a73.png": "./static/media/wrong.ffe34a73.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ce955115.js",
     "static/css/2.3b75b243.chunk.css",
     "static/js/2.9c1e79b4.chunk.js",
-    "static/css/main.a0cec583.chunk.css",
-    "static/js/main.09991202.chunk.js"
+    "static/css/main.0017109f.chunk.css",
+    "static/js/main.ce142655.chunk.js"
   ]
 }
